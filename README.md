@@ -1,9 +1,10 @@
-### Hi there 👋
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yohanes-bagas-ari-widatama-689a1a1a2/)
+### Reach me on
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yohanes.bagas.a.w@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yo.bgs.dev/)
 [![Instagram](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cryxto)
-</br>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yohanes-bagas-ari-widatama-689a1a1a2/)
+
+### Hi there 👋
 My name is Yohanes Bagas Ari Widatama. I am an Informatics Engineering Student in <a href = "https://www.esaunggul.ac.id/">Esa Unggul University</a>. The field that i am interested is **Backend Development** anb **Microservices** . But i am also eager to learn how to make good website interface. 
 </br>
 - 🔭 I’m the part of <a href = "https://www.esaunggul.ac.id/](https://www.linkedin.com/company/bangkit-academy/mycompany/">Bangkit Academy 2023</a> as a cohort.
