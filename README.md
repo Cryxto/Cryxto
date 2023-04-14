@@ -1,5 +1,5 @@
 ### Hi there 👋 
-My name is Yohanes Bagas Ari Widatama. I am an Informatics Engineering in <a href = "https://www.esaunggul.ac.id/">Esa Unggul University</a>. The field that i am interested is **Backend Development** anb **Microservices** . But i am also eager to learn how to make good website interface. 
+My name is Yohanes Bagas Ari Widatama. I am an Informatics Engineering Student in <a href = "https://www.esaunggul.ac.id/">Esa Unggul University</a>. The field that i am interested is **Backend Development** anb **Microservices** . But i am also eager to learn how to make good website interface. 
 </br>
 - 🔭 I’m the part of <a href = "https://www.esaunggul.ac.id/](https://www.linkedin.com/company/bangkit-academy/mycompany/">Bangkit Academy 2023</a> as a cohort.
 - 🌱 I’m currently learning Laravel, React, and Express.
