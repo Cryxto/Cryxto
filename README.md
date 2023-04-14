@@ -7,12 +7,13 @@ My name is Yohanes Bagas Ari Widatama. I am an Informatics Engineering Student i
 - 🌱 I’m currently learning Laravel, React, and Express.
 - ⚡ Fun fact: i am busy to set up my neovim config LMAO.
 - 📫 You can reach me by email : yohanes.bagas.a.w@gmail.com, <a href = "https://www.linkedin.com/in/yohanes-bagas-ari-widatama-689a1a1a2/">LinkedIn</a>, or dm me on <a href = "https://www.instagram.com/yo.bgs.dev/">Instagram</a>
-</br>
-<div align = "center">
-<a href = "https://github.com/Cryxto" style = "text-align:center;">
-  <img height="178em" src = "https://github-readme-stats.vercel.app/api?username=Cryxto&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
-  <p> </p>
-  <img height="178em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Cryxto&layout=compact&show_icons=true&theme=radical">
+
+<div align = "left">
+<a href = "https://github.com/Cryxto">
+  <img align = "left" height="200em" src = "https://github-readme-stats.vercel.app/api?username=Cryxto&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+</a>
+<a href = "https://github.com/Cryxto">
+  <img align = "left" height="200em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Cryxto&langs_count=8&layout=compact&theme=radical">
 </a>
 </div>
 </br>
