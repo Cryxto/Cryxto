@@ -9,12 +9,14 @@ My name is Yohanes Bagas Ari Widatama. I am an Informatics Engineering Student i
 - 🔭 I’m the part of <a href = "https://www.esaunggul.ac.id/](https://www.linkedin.com/company/bangkit-academy/mycompany/">Bangkit Academy 2023</a> as a cohort.
 - 🌱 I’m currently learning Laravel, React, and Express.
 - ⚡ Fun fact: i am busy to set up my neovim config LMAO.
-### Stacks
-[![WSL2](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
+### Daily Driver
+[![WSL2](https://img.shields.io/badge/WSL2-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
+[![Ubuntu](https://img.shields.io/badge/Ubuntu%2020.04%20LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
 [![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 [![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
 [![](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)]()
+
+### Stacks
 [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
