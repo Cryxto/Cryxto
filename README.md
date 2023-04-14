@@ -1,4 +1,6 @@
-![Header](./assets/github-header-image-2.png)
+<div align = "center">
+<img src = "./assets/github-header-image-2.png">
+</div>
 
 ### Reach me on
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yohanes.bagas.a.w@gmail.com)
@@ -58,6 +60,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![Header](./assets/github-header-image-2.png)
 Sumber : 
 https://dev.to/envoy_/150-badges-for-github-pnk
 https://github.com/alexandresanlim/Badges4-README.md-Profile
