@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 
+My name is Yohanes Bagas Ari Widatama. I am an Informatics Engineering in <a href = "https://www.esaunggul.ac.id/">Esa Unggul University</a>. The field that i am interested is **Backend Development** anb **Microservices** . But i am also eager to learn how to make good website interface. 
+</br>
+- 🔭 I’m the part of <a href = "https://www.esaunggul.ac.id/](https://www.linkedin.com/company/bangkit-academy/mycompany/">Bangkit Academy 2023</a> as a cohort.
+- 🌱 I’m currently learning Laravel, React, and Express.
+- ⚡ Fun fact: i am busy to set up my neovim config LMAO.
+- 📫 You can reach me by email : yohanes.bagas.a.w@gmail.com, <a href = "https://www.linkedin.com/in/yohanes-bagas-ari-widatama-689a1a1a2/">LinkedIn</a>, or dm me on <a href = "https://www.instagram.com/yo.bgs.dev/">Instagram</a>
+
 
 <!--
 **Cryxto/Cryxto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
