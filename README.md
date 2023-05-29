@@ -38,10 +38,10 @@ My name is Yohanes Bagas Ari Widatama. I am an Informatics Engineering Student i
 ### Stats
 <div align = "left">
 <a href = "https://github.com/Cryxto">
-  <img height="200em" src = "https://github-readme-stats-eight-theta.vercel.app/api?username=Cryxto&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+  <img height="180em" src = "https://github-readme-stats-eight-theta.vercel.app/api?username=Cryxto&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
 </a>
 <a href = "https://github.com/Cryxto">
-  <img height="200em" src = "https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Cryxto&langs_count=8&layout=compact&theme=radical">
+  <img height="180em" src = "https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Cryxto&langs_count=8&layout=compact&theme=radical">
 </a>
 </div>
 </br>
