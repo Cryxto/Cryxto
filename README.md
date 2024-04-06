@@ -9,11 +9,10 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yohanes-bagas-ari-widatama)
 
 ### Hi there 👋
-My name is Yohanes Bagas Ari Widatama. I am an Informatics Engineering Student in <a href = "https://www.esaunggul.ac.id/">Esa Unggul University</a>. The field that i am interested is **Backend Development** anb **Microservices** . But i am also eager to learn how to make good website interface. 
+My name is Yohanes Bagas Ari Widatama. I am an Informatics Engineering Graduate from <a href = "https://www.esaunggul.ac.id/">Esa Unggul University</a>. The field that i am interested is **Backend Development** anb **Microservices** . But i am also eager to learn how to make good website interface. 
 </br>
-- 🔭 I’m the part of <a href = "https://www.esaunggul.ac.id/](https://www.linkedin.com/company/bangkit-academy/mycompany/">Bangkit Academy 2023</a> as a cohort.
-- 🌱 I’m currently learning Laravel, React, and Express.
-- ⚡ Fun fact: i am busy to set up my neovim config LMAO.
+- 🔭 I’m distinct graduate of <a href = "https://www.esaunggul.ac.id/](https://www.linkedin.com/company/bangkit-academy/mycompany/">Bangkit Academy 2023 Batch 1</a>.
+- 🌱 I’m currently looking experience and junior engineer role.
 - 📫 You can e-mail me on : yohanes.bagas.a.w@gmail.com
 ### Daily Driver
 [![WSL2](https://img.shields.io/badge/WSL2-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
@@ -59,6 +58,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ⚡ Fun fact: i am busy to set up my neovim config LMAO.
 
 ![Header](./assets/github-header-image-2.png)
 Sumber : 
