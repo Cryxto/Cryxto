@@ -9,7 +9,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yohanes-bagas-ari-widatama)
 
 ### Hi there 👋
-My name is Yohanes Bagas Ari Widatama. I am an Informatics Engineering Graduate from <a href = "https://www.esaunggul.ac.id/">Esa Unggul University</a>. The field that i am interested is **Backend Development** anb **Microservices** . But i am also eager to learn how to make good website interface. 
+My name is Yohanes Bagas Ari Widatama. I am an Informatics Engineering Graduate (Bachelor's Degree) from <a href = "https://www.esaunggul.ac.id/">Esa Unggul University</a>. The field that i am interested is **Backend Development** anb **Microservices** . But i am also eager to learn how to make good website interface. 
 </br>
 - 🔭 I’m distinct graduate of <a href = "https://www.esaunggul.ac.id/](https://www.linkedin.com/company/bangkit-academy/mycompany/">Bangkit Academy 2023 Batch 1</a>.
 - 🌱 I’m currently looking for experience and junior engineer role.
