@@ -14,6 +14,7 @@ My name is Yohanes Bagas Ari Widatama. I am an Informatics Engineering Graduate 
 - 🔭 I’m distinct graduate of <a href = "https://www.esaunggul.ac.id/](https://www.linkedin.com/company/bangkit-academy/mycompany/">Bangkit Academy 2023 Batch 1</a>.
 - 🌱 I’m currently looking for experience and junior engineer role.
 - 📫 You can e-mail me on : yohanes.bagas.a.w@gmail.com
+- Here's my [CV](https://cloud.cryxto.my.id/s/eKADKmZ8gPBZpAx)
 ### Daily Driver
 [![WSL2](https://img.shields.io/badge/WSL2-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
 [![Ubuntu](https://img.shields.io/badge/Ubuntu%2020.04%20LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
