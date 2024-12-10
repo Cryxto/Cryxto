@@ -9,11 +9,10 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yohanes-bagas-ari-widatama)
 
 ### Hi there 👋
-My name is Yohanes Bagas Ari Widatama. I am an Informatics Engineering Graduate (Bachelor's Degree) from <a href = "https://www.esaunggul.ac.id/">Esa Unggul University</a>. The field that i am interested is **Backend Development** anb **Microservices** . But i am also eager to learn how to make good website interface. 
+My name is Yohanes Bagas Ari Widatama. I am a Web Developer. The field that i am interested is **Backend Development** anb **Devops** . But i am also eager to learn how to make good website interface. 
 </br>
 - 🔭 I’m distinct graduate of <a href = "https://www.esaunggul.ac.id/](https://www.linkedin.com/company/bangkit-academy/mycompany/">Bangkit Academy 2023 Batch 1</a>.
-- 🌱 I’m currently looking for experience and junior engineer role.
-- 📫 You can e-mail me on : yohanes.bagas.a.w@gmail.com
+- 📫 You can e-mail me on : yohanes.bagas@cryxto.my.id
 - Here's my [CV](https://cloud.cryxto.my.id/s/eKADKmZ8gPBZpAx)
 ### Daily Driver
 [![WSL2](https://img.shields.io/badge/WSL2-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
@@ -65,4 +64,5 @@ Here are some ideas to get you started:
 Sumber : 
 https://dev.to/envoy_/150-badges-for-github-pnk
 https://github.com/alexandresanlim/Badges4-README.md-Profile
+- 🌱 I’m currently looking for experience and junior engineer role.
 -->
